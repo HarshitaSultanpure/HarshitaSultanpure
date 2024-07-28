@@ -79,7 +79,9 @@
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2023-10.png" alt="DCC 2023 October Badge" width="80" height="80"/>
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2023-9.png" alt="DCC 2023 September Badge" width="80" height="80"/>
 </a>
-</p></br>
+</p>
+
+<h3 align="center">🏆GitHub Trophies🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitasultanpure" alt="harshitasultanpure" /></a> </p>
 
 <h3 align="center">🙋‍♀️Support🙋‍♀️</h3>
