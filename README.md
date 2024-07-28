@@ -5,7 +5,7 @@
 <!--
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ea/9d/f8/ea9df861113fecec5bb17bf1faa0124e.gif">
 -->
-<h5 align="center">(>Fueled by curiosity🤔 and coffee ☕<)</h5>
+<h6 align="center">(>Fueled by curiosity🤔 and coffee ☕<)</h>
 <h5 align="center">✨🌟💫⚡️🌈</h5>
 
 <h5 align="center"
