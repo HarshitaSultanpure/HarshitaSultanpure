@@ -23,8 +23,8 @@
  👨‍💻 All of my projects are available at - [Peek My Work💼](https://harshitasultanpure.github.io/Portfolio/)
 
  💬 Ask me about - **Coding,Java,WebDev,DSA,Doraemon🤖 & my_favorite_travel_destinations🌍**
-
- ⚡ Fun fact - **I can fall asleep anywhere, anytime, and travel the world in my dreams!🌍😴✨**</h5>
+<!--
+ ⚡ Fun fact - **I can fall asleep anywhere, anytime, and travel the world in my dreams!🌍😴✨**</h5> -->
  <!--https://www.linkedin.com/in/harshita-sultanpure/-->
 <!-- <p align="center"> <a href="https://twitter.com/hsultanpure_66" target="blank"><img src="https://img.shields.io/twitter/follow/hsultanpure_66?logo=twitter&style=for-the-badge" alt="hsultanpure_66" /></a> </p>
 -->
