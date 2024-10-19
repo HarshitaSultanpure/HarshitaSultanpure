@@ -18,11 +18,11 @@
 
  📫 Reach me out - **harshitasultan30304@gmail.com📧**
 
- 📄 Know about my experiences - [Peep_My_CV👀](https://drive.google.com/file/d/1UQzhhIvIaSW2eO-Nzbbr4vrCV9Cg7qq9/view?usp=sharing)
+ 📄 Know about my experiences - [Peep_My_CV👀](https://drive.google.com/file/d/1xV-8qDs89OC578f8Pn0pY-3Z11vtCMaE/view?usp=sharing)
 
- 👨‍💻 All of my projects are available at - [Peek My Work💼](https://harshitasultanpure.github.io/Portfolio/)
+ 👨‍💻 All of my projects are available at - [Peek_My_Work💼](https://harshitasultanpure.github.io/Portfolio/)
 
- 💬 Ask me about - **Coding,Java,WebDev,DSA,Doraemon🤖 & my_favorite_travel_destinations🌍**
+ 💬 Ask me about - **Java,WebDev,DSA,Doraemon🤖 & my_favorite_travel_destinations🌍**
 <!--
  ⚡ Fun fact - **I can fall asleep anywhere, anytime, and travel the world in my dreams!🌍😴✨**</h5> -->
  <!--https://www.linkedin.com/in/harshita-sultanpure/-->
